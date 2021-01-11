@@ -1,0 +1,13 @@
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\ExerciciosHerancaPolimorfismo\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.exe
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\ExerciciosHerancaPolimorfismo\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.deps.json
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\ExerciciosHerancaPolimorfismo\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.runtimeconfig.json
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\ExerciciosHerancaPolimorfismo\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.runtimeconfig.dev.json
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\ExerciciosHerancaPolimorfismo\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.dll
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\ExerciciosHerancaPolimorfismo\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.pdb
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\ExerciciosHerancaPolimorfismo\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.csprojAssemblyReference.cache
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\ExerciciosHerancaPolimorfismo\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.AssemblyInfoInputs.cache
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\ExerciciosHerancaPolimorfismo\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.AssemblyInfo.cs
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\ExerciciosHerancaPolimorfismo\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\ExerciciosHerancaPolimorfismo\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.dll
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\ExerciciosHerancaPolimorfismo\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.pdb
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\ExerciciosHerancaPolimorfismo\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.genruntimeconfig.cache

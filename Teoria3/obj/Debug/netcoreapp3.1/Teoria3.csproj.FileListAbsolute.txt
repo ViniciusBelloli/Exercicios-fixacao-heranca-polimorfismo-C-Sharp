@@ -1,0 +1,13 @@
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\ExerciciosHerancaPolimorfismo\Teoria3\bin\Debug\netcoreapp3.1\Teoria3.exe
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\ExerciciosHerancaPolimorfismo\Teoria3\bin\Debug\netcoreapp3.1\Teoria3.deps.json
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\ExerciciosHerancaPolimorfismo\Teoria3\bin\Debug\netcoreapp3.1\Teoria3.runtimeconfig.json
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\ExerciciosHerancaPolimorfismo\Teoria3\bin\Debug\netcoreapp3.1\Teoria3.runtimeconfig.dev.json
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\ExerciciosHerancaPolimorfismo\Teoria3\bin\Debug\netcoreapp3.1\Teoria3.dll
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\ExerciciosHerancaPolimorfismo\Teoria3\bin\Debug\netcoreapp3.1\Teoria3.pdb
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\ExerciciosHerancaPolimorfismo\Teoria3\obj\Debug\netcoreapp3.1\Teoria3.csprojAssemblyReference.cache
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\ExerciciosHerancaPolimorfismo\Teoria3\obj\Debug\netcoreapp3.1\Teoria3.AssemblyInfoInputs.cache
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\ExerciciosHerancaPolimorfismo\Teoria3\obj\Debug\netcoreapp3.1\Teoria3.AssemblyInfo.cs
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\ExerciciosHerancaPolimorfismo\Teoria3\obj\Debug\netcoreapp3.1\Teoria3.csproj.CoreCompileInputs.cache
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\ExerciciosHerancaPolimorfismo\Teoria3\obj\Debug\netcoreapp3.1\Teoria3.dll
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\ExerciciosHerancaPolimorfismo\Teoria3\obj\Debug\netcoreapp3.1\Teoria3.pdb
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\ExerciciosHerancaPolimorfismo\Teoria3\obj\Debug\netcoreapp3.1\Teoria3.genruntimeconfig.cache
